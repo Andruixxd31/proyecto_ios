@@ -57,7 +57,6 @@ struct HomePageView: View {
         NavigationView {
             
             VStack {
-//                Text("User: \(vm.chatUser?.uid ?? "")")
                 
                 customNavBar
                 messagesView
@@ -86,17 +85,7 @@ struct HomePageView: View {
             VStack(alignment: .leading, spacing: 4) {
                 let email = vm.bookUser?.email.replacingOccurrences(of: "@gmail.com", with: "") ?? ""
                 Text(email)
-                    .font(.system(size: 24, weight: .bold))
-                
-                HStack {
-                    Circle()
-                        .foregroundColor(.green)
-                        .frame(width: 14, height: 14)
-                    Text("online")
-                        .font(.system(size: 12))
-                        .foregroundColor(Color(.lightGray))
-                }
-                
+                    .font(.system(size: 24, weight: .bold))                
             }
             
             Spacer()

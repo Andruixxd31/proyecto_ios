@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>747893517507-pjc91elaijngjp24oescc06k67kv67eb.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.747893517507-pjc91elaijngjp24oescc06k67kv67eb</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBHgEZ8QsvUN7IY9HfCYN7xaC0vcn0QuEY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>747893517507</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>itesm.bookKeeperApp</string>
+	<key>PROJECT_ID</key>
+	<string>bookkeeperapp-5f830</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bookkeeperapp-5f830.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:747893517507:ios:d2c6967024412009350676</string>
+</dict>
+</plist>
